@@ -1,0 +1,58 @@
+body {
+    background-color: #ffe6c4;
+    padding: 40px;
+}
+
+.header {
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile {
+    width: 300px;
+    height: 500px;
+    padding: 50px;
+    background-color: white;
+    font-family: serif;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.name {
+    margin-top: 30px;
+}
+
+.paspoto {
+    width: 200px;
+    height: 250px;
+    margin-left: 0px;
+}
+
+.currentedu {
+    color: #2f3133;
+}
+
+.medsos {
+    color: #2f3133;
+}
+
+.child {
+    float: left;
+}
+.achiv {
+    margin-left: 50px;
+    background-color: turquoise;
+    width: 300px;
+    height: 500px;
+    padding: 50px;
+}
+
+.achivheader {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.achieves {
+    text-align: center;
+}
